@@ -1,3 +1,9 @@
+## Original repository
+
+This is a clone repository, the original one is [here](https://github.com/ProjectOpenSea/opensea-erc1155) from OpenSea developers.
+
+
+
 ## OpenSea ERC-1155 Starter Contracts
 
 - [About these contracts](#about-these-contracts)
